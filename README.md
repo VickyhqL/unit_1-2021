@@ -14,9 +14,11 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 Apart for this requirements, the owner is open to any type of game, topic or genre.
 
 ## Proposed Solution
+#DBH like game every deviant action increases your point while every machine action decreases the score. You get trophies for a perfect 100%, -100% and an exact 50/50 score
 
 ## Success Criteria
-
+#one character path should be complete. one mission should be complete in the game
+#the game should be completely text based
 
 # Criteria B: Design
 
