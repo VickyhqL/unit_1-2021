@@ -32,3 +32,4 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 |         |                |                 |               |                        |           |
 |         |                |                 |               |                        |           |
 |         |                |                 |               |                        |           |
+#link to my planning slides: https://docs.google.com/presentation/d/1zh7_Z_xD-tB1DSPj9aDk2KbtDx-UoqnTtJQu1-G5IzQ/edit?usp=sharing
