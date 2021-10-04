@@ -14,16 +14,15 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 Apart for this requirements, the owner is open to any type of game, topic or genre.
 
 ## Proposed Solution
-#DBH like game every deviant action increases your point while every machine action decreases the score. You get trophies for a perfect 100%, -100% and an exact 50/50 score
+For my proposed game the player will play as Achilles from the Iliad. The aim of the game is to defeat the Trojans as soon as possible, disregarding history.  The client wishes to have a fully text based game that records the time played and a score. The score is based on the decisions you make. The quicker you end the war and the more lives you save the higher the score. The game will be considered a success when you can complete the entire story and receive a score. The application will receive the player’s input and decide whether or not the player would succeed in the game. The program will deduct points when your companion Patroclus is killed. In the end the player with the fastest time and highest score is ranked first. The game ends when the Greeks successfully deliver the Trojan horse to the gates.
 
 ## Success Criteria
-#one character path should be complete. one mission should be complete in the game
-#the game should be completely text based
+The game should include 3 key stages. The first battle which leads into the plauge, the second battle which leads to Achillies withdrawal from battle and the final stage where the player aims to lead the Greeks to victory. The score system should have medals. One where you get the worst possible ending with the lowest socre possible (-100), one for the highest score possible (100) and one for a perfect 50/50 score. The game should only take input as integers and the character you play as should be Achilles.
 
 # Criteria B: Design
 
 ## System Diagram
-
+(Can be found in the planning slides linked below)
 ## Flow Diagrams
 
 ## Record of Tasks
