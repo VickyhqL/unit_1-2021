@@ -34,4 +34,4 @@ The game should include 3 key stages. The first battle which leads into the plau
 | 3           | Begin programming | The first section of the game should be coded to test the structure. This allows me to know if the structure will work throughout the game. | 50mins (Oct 1)       | C         |
 | 4           | create encoder    | required for the game, mostly to protect any user inputs with personal information                                                          | 30mins (Oct 7)       | C         |
 | 5           | test encoder      | make sure out encoder works                                                                                                                 | 5mins (Oct 7)        | E         |
-You can now import Markdown table code directly using File/Paste table data... dialog.
+
