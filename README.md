@@ -13,6 +13,8 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 
 Apart for this requirements, the owner is open to any type of game, topic or genre.
 
+In terms of existing products, there are many games based around the Trojan war. However, most of these games simply take characters and famous features such as the Trojan horse and Achilles battle with Hector. My game hopes to present a more linear, storylike version of the game for the player. Rather than just fighting NPCs the player should be able to enjoy the story and think about their decisions regarding the plot. If the player follows the path accurate to the original story, I hope they can learn something new. If not I just hope they can come to appreciate the classics more.
+
 ## Proposed Solution
 For my proposed game the player will play as Achilles from the Iliad. The aim of the game is to defeat the Trojans as soon as possible, disregarding history.  The client wishes to have a fully text based game that records the time played and a score. The score is based on the decisions you make. The quicker you end the war and the more lives you save the higher the score. The game will be considered a success when you can complete the entire story and receive a score. The application will receive the player’s input and decide whether or not the player would succeed in the game. The program will deduct points when your companion Patroclus is killed. In the end the player with the fastest time and highest score is ranked first. The game ends when the Greeks successfully deliver the Trojan horse to the gates.
 
@@ -22,6 +24,7 @@ The game should include 3 key stages. The first battle which leads into the plau
 # Criteria B: Design
 
 ## System Diagram
+
 (Can be found in the planning slides linked below)
 ## Flow Diagrams
 #link to my planning slides: https://docs.google.com/presentation/d/1zh7_Z_xD-tB1DSPj9aDk2KbtDx-UoqnTtJQu1-G5IzQ/edit?usp=sharing
