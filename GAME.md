@@ -22,7 +22,7 @@ I will to design and make a text based video game for a client who is an old gam
 
 
 ## Success Criteria
-The game should include 3 key stages. The first battle which leads into the plauge, the second battle which leads to Achillies withdrawal from battle and the final stage where the player aims to lead the Greeks to victory. The score system should have medals. One where you get the worst possible ending with the lowest socre possible (-100), one for the highest score possible (100) and one for a perfect 50/50 score. The game should only take input as integers and the character you play as should be Achilles. It should be noted that the player will not recieve any indication they finish an act.
+The game should include 3 key stages. The first battle which leads into the plauge, the second battle which leads to Achillies withdrawal from battle and the final stage where the player aims to lead the Greeks to victory. The score system should have medals. One where you get the worst possible ending with the lowest socre possible (-100), one for the highest score possible (100) and one for a perfect 50/50 score. The game should only take input as integers and the character you play as should be Achilles. 
 
 # Criteria B: Design
 
