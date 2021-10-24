@@ -40,6 +40,7 @@ The diagram shows the rough paths and decisions the player will see and make in 
 Fig 3. Flow Diagram of Act 2 part 2 and Act 3
 The diagram shows the latter half of Act 2 I have in mind and the final Act.
 
+Link to MVP (repository):https://colab.research.google.com/drive/1W_60-8gPe4MbYQOvwGOqgvI6l7wVUebe
 ## Record of Tasks
 | Task Number | Action                    | Outcome                                                                                                                                     | Target Time and Date | Criterion   |
 |-------------|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-------------|
