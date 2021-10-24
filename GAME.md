@@ -36,6 +36,7 @@ In this diagram, my program will use keyboard inputs and python programming to r
 Fig 2. Flow diagram of Arc 1 and part 1 of Arc 2
 The diagram shows the rough paths and decisions the player will see and make in the game in Arc 1 and the first part of Arc 2
 
+![Screenshot 2021-10-24 at 13 34 28](https://user-images.githubusercontent.com/89110625/138582265-31ed6395-e513-44f0-b3c1-87b479c3453d.png)
 
 Fig 3. Flow Diagram of Act 2 part 2 and Act 3
 The diagram shows the latter half of Act 2 I have in mind and the final Act.
