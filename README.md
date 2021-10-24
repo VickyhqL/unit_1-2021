@@ -39,11 +39,15 @@ The diagram shows the rough paths and decisions the player will see and make in 
 
 
 ## Record of Tasks
-| Task Number | Action            | Outcome                                                                                                                                     | Target Time and Date | Criterion |
-|-------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-----------|
-| 1           | Systems diagram   | Have a clearer understanding of my game's structure                                                                                         | 10mins (Sep 23)      | B         |
-| 2           | Planning and Plot | To know what my game is about and have information to provide to my client about the overall game idea.                                     | 30mins (Sep 27)      | B         |
-| 3           | Begin programming | The first section of the game should be coded to test the structure. This allows me to know if the structure will work throughout the game. | 50mins (Oct 1)       | C         |
-| 4           | create encoder    | required for the game, mostly to protect any user inputs with personal information                                                          | 30mins (Oct 7)       | C         |
-| 5           | test encoder      | make sure out encoder works                                                                                                                 | 5mins (Oct 7)        | E         |
-
+| Task Number | Action                    | Outcome                                                                                                                                     | Target Time and Date | Criterion   |
+|-------------|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-------------|
+| 1           | Systems diagram           | Have a clearer understanding of my game's structure                                                                                         | 10mins (Sep 23)      | B           |
+| 2           | Planning and Plot         | To know what my game is about and have information to provide to my client about the overall game idea.                                     | 30mins (Sep 27)      | B           |
+| 3           | Flow Diagrams             | create the first few flow diagrams to aid in the creation of the final game                                                                 | 80mins (Sep 30)      | B           |
+| 4           | Begin programming         | The first section of the game should be coded to test the structure. This allows me to know if the structure will work throughout the game. | 50mins (Oct 1)       | C           |
+| 5           | create encoder            | required for the game, mostly to protect any user inputs with personal information                                                          | 30mins (Oct 7)       | C           |
+| 6           | test encoder              | make sure out encoder works                                                                                                                 | 5mins (Oct 7)        | E           |
+| 7           | MVP                       | Have a minimum viable product finished (*note submission failed so no feedback is given, the video will be uploaded to repository)          | 30mins(Oct 15)       | C and E (?) |
+| 8           | Act II                    | The development of Act II is underway and should at least be partially finished by the 25th                                                 | 120mins (Oct 19)     | C           |
+| 9           | continue game coding      | Progress is slower than expected and I believe I have overestimated myself, It doesn't seem I can finish the game on time                   | 60mins (Oct 22)      | C           |
+| 10          | Final Edits to Repository | Since criterion A and B are the priority more time will be spent making sure those aspects are up tp par                                    | 120mins (Oct 23)     | A and B     |
