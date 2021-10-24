@@ -68,3 +68,6 @@ https://user-images.githubusercontent.com/89110625/138581636-488f692e-ae2a-487b-
 
 ## Reflection
 Personally I feel that I did not manage my time correctly. I underestimated the time I needed to program the game itself and my inital idea for a score system proved difficult to execute. As such I tired to simplify it. Even then it didn't turn out well. I personally feel my time management was lacking and I was too ambitious given my limited knowledge in programming thus far. In the furutre I would benefit from makng a more detailed plan of my game and spend more time fufilling the success criteria rather than chasing after my chosen plot ideas. Since I spent so much time trying to flesh out the story one of the key requiremnts of haveing a score system ended up mostly unfinished.
+
+
+*As of the 24th I suddenly made a breakthrough with the score system and my code. It is now undergoing a rework. I was overcomplicating what I needed to do. The program will see some changes until it is finished. Given the rework it is unlikely I can complete and start Act 3 before Monday even though time is up.
