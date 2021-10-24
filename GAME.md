@@ -41,6 +41,13 @@ Fig 3. Flow Diagram of Act 2 part 2 and Act 3
 The diagram shows the latter half of Act 2 I have in mind and the final Act.
 
 Link to MVP (repository):https://colab.research.google.com/drive/1W_60-8gPe4MbYQOvwGOqgvI6l7wVUebe
+MVP Video (short)
+
+
+https://user-images.githubusercontent.com/89110625/138581636-488f692e-ae2a-487b-96f8-e80a2515eeee.mp4
+
+
+
 ## Record of Tasks
 | Task Number | Action                    | Outcome                                                                                                                                     | Target Time and Date | Criterion   |
 |-------------|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-------------|
