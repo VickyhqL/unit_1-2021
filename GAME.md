@@ -63,3 +63,4 @@ https://user-images.githubusercontent.com/89110625/138581636-488f692e-ae2a-487b-
 | 8           | Act II                    | The development of Act II is underway and should at least be partially finished by the 25th                                                 | 120mins (Oct 19)     | C           |
 | 9           | continue game coding      | Progress is slower than expected and I believe I have overestimated myself, It doesn't seem I can finish the game on time                   | 60mins (Oct 22)      | C           |
 | 10          | Final Edits to Repository | Since criterion A and B are the priority more time will be spent making sure those aspects are up tp par                                    | 120mins (Oct 23)     | A and B     |
+| 11          | Reflection                | I wanted to write down my thoughts on the process and how I could improve since I left much to be desired.                                  | 20mins (Oct 24)      | D (?)       |
