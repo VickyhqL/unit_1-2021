@@ -67,6 +67,11 @@ https://user-images.githubusercontent.com/89110625/138581636-488f692e-ae2a-487b-
 | 12          | Rework               | I had a breakthrough and wish to continue as much as possible. I know given previous progress I'm not sure I can finish but I do believe I can improve it.                                  | 120mins (Oct 24)      | C       |
 
 
+## Product
+First MVP:https://github.com/VickyhqL/Unit-1.-A/blob/main/GAME(MVP).py
+I can't upload the pycharm(.py) file sorry! 
+
+Final Finished game (Incomplete I want to perfect it)
 
 ## Reflection
 Personally I feel that I did not manage my time correctly. I underestimated the time I needed to program the game itself and my inital idea for a score system proved difficult to execute. As such I tired to simplify it. Even then it didn't turn out well. I personally feel my time management was lacking and I was too ambitious given my limited knowledge in programming thus far. In the furutre I would benefit from makng a more detailed plan of my game and spend more time fufilling the success criteria rather than chasing after my chosen plot ideas. Since I spent so much time trying to flesh out the story one of the key requiremnts of haveing a score system ended up mostly unfinished.
