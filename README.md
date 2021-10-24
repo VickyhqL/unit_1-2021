@@ -24,7 +24,7 @@ The game should include 3 key stages. The first battle which leads into the plau
 # Criteria B: Design
 
 ## System Diagram
-![]![Screenshot (9)](https://user-images.githubusercontent.com/89110625/138578924-0f47e7cc-7616-47f6-b005-7d90a88b541d.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/89110625/138578924-0f47e7cc-7616-47f6-b005-7d90a88b541d.png)
 Fig 1. System Diagram of proposed solution
 In this diagram, my program will use keyboard inputs and python programming to run my proposed solution. The output will be text on your screen.
 
