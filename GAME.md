@@ -65,6 +65,7 @@ https://user-images.githubusercontent.com/89110625/138581636-488f692e-ae2a-487b-
 | 10          | Final Edits to Repository | Since criterion A and B are the priority more time will be spent making sure those aspects are up tp par                                    | 120mins (Oct 23)     | A and B     |
 | 11          | Reflection                | I wanted to write down my thoughts on the process and how I could improve since I left much to be desired.                                  | 20mins (Oct 24)      | D (?)       |
 | 12          | Rework               | I had a breakthrough and wish to continue as much as possible. I know given previous progress I'm not sure I can finish but I do believe I can improve it.                                  | 120mins (Oct 24)      | C       |
+| 13          | tesing              | testing of the game should be carried out by playing the game and running the program. Besides isolating sections of code to test them, I also plan to run the program and run the debugger to make sure nothing is wrong.           | 20mins (Oct 25)      | E(?)       |
 
 
 ## Product
