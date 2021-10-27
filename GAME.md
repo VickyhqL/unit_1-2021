@@ -74,6 +74,15 @@ I can't upload the pycharm(.py) file sorry!
 
 Final Finished game (Incomplete I want to perfect it)
 
+## Testing Table
+| Description                   | Type        | Input                                              | Expected output                                                                   |
+|-------------------------------|-------------|----------------------------------------------------|-----------------------------------------------------------------------------------|
+| Testing name and score system | Unit        | PLayer name (eg Atlas) and choices                 | Player name (Atlas) and final score(-120 to 120)                                  |
+| Testing the first Act         | Integration | Player name and all their choices (numerical form) | Player name and story's plot                                                      |
+| MVP testing                   | Code Review | Player name, choices                               | The full first act of the story,score as of first act, time taken and player name |
+| Cipher testing                | Unit        | Player name (eg Atlas)                             | player name encrypted (eg. dwodv)                                                 |
+| Timer testing                 | Unit        | Game choices                                       | Story and Time taken printed as "Your total game time is :"                       |
+
 ## Reflection
 Personally I feel that I did not manage my time correctly. I underestimated the time I needed to program the game itself and my inital idea for a score system proved difficult to execute. As such I tired to simplify it. Even then it didn't turn out well. I personally feel my time management was lacking and I was too ambitious given my limited knowledge in programming thus far. In the furutre I would benefit from makng a more detailed plan of my game and spend more time fufilling the success criteria rather than chasing after my chosen plot ideas. Since I spent so much time trying to flesh out the story one of the key requiremnts of haveing a score system ended up mostly unfinished.
 
