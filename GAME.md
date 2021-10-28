@@ -88,3 +88,6 @@ Personally I feel that I did not manage my time correctly. I underestimated the 
 
 
 *As of the 24th I suddenly made a breakthrough with the score system and my code. It is now undergoing a rework. I was overcomplicating what I needed to do. The program will see some changes until it is finished. Given the rework it is unlikely I can complete and start Act 3 before Monday even though time is up.
+
+| ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ | ฅ ̳͒•ˑ̫• ̳͒ฅ |
+##Improved versions of old stuff (like them flow diagrams)
